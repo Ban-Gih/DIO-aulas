@@ -1,0 +1,139 @@
+{
+    // Use o IntelliSense para saber mais sobre os atributos possíveis.
+    // Focalizar para exibir as descrições dos atributos existentes.
+    // Para obter mais informações, acesse: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "aulas_cb70f51f"
+        },
+        {
+            "type": "java",
+            "name": "App",
+            "request": "launch",
+            "mainClass": "App",
+            "projectName": "aulas_cb70f51f"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "AboutMe",
+            "request": "launch",
+            "mainClass": "AboutMe",
+            "projectName": "aulas_cb70f51f",
+            "args": [
+                "jeovane",
+                "viana",
+                "31",
+                "1.68"
+            ]
+        },
+        {
+            "type": "java",
+            "name": "MinhaClasse",
+            "request": "launch",
+            "mainClass": "anatomiaclasses.MinhaClasse",
+            "projectName": "aulas_cb70f51f"
+        },
+        {
+            "type": "java",
+            "name": "Comentarios",
+            "request": "launch",
+            "mainClass": "javadoc.Comentarios",
+            "projectName": "aulas_cb70f51f"
+        },
+        {
+            "type": "java",
+            "name": "Usuario",
+            "request": "launch",
+            "mainClass": "metodos.Usuario",
+            "projectName": "aulas_cb70f51f"
+        },
+        {
+            "type": "java",
+            "name": "OperadorAritimetico",
+            "request": "launch",
+            "mainClass": "operadores.OperadorAritimetico",
+            "projectName": "aulas_cb70f51f"
+        },
+        {
+            "type": "java",
+            "name": "OperadorAtribuicao",
+            "request": "launch",
+            "mainClass": "operadores.OperadorAtribuicao",
+            "projectName": "aulas_cb70f51f"
+        },
+        {
+            "type": "java",
+            "name": "OperadorConcatenacao",
+            "request": "launch",
+            "mainClass": "operadores.OperadorConcatenacao",
+            "projectName": "aulas_cb70f51f"
+        },
+        {
+            "type": "java",
+            "name": "OperadorIncrementacao",
+            "request": "launch",
+            "mainClass": "operadores.OperadorIncrementacao",
+            "projectName": "aulas_cb70f51f"
+        },
+        {
+            "type": "java",
+            "name": "OperadorLogico",
+            "request": "launch",
+            "mainClass": "operadores.OperadorLogico",
+            "projectName": "aulas_cb70f51f"
+        },
+        {
+            "type": "java",
+            "name": "OperadorRelacional",
+            "request": "launch",
+            "mainClass": "operadores.OperadorRelacional",
+            "projectName": "aulas_cb70f51f"
+        },
+        {
+            "type": "java",
+            "name": "OperadorTernario",
+            "request": "launch",
+            "mainClass": "operadores.OperadorTernario",
+            "projectName": "aulas_cb70f51f"
+        },
+        {
+            "type": "java",
+            "name": "OperadorUnario",
+            "request": "launch",
+            "mainClass": "operadores.OperadorUnario",
+            "projectName": "aulas_cb70f51f"
+        },
+        {
+            "type": "java",
+            "name": "AboutMe(1)",
+            "request": "launch",
+            "mainClass": "terminaleargumentos.AboutMe",
+            "projectName": "aulas_cb70f51f"
+        },
+        {
+            "type": "java",
+            "name": "MinhaClasse(1)",
+            "request": "launch",
+            "mainClass": "terminaleargumentos.MinhaClasse",
+            "projectName": "aulas_cb70f51f"
+        },
+        {
+            "type": "java",
+            "name": "TiposVariaveis",
+            "request": "launch",
+            "mainClass": "tiposvariaveis.TiposVariaveis",
+            "projectName": "aulas_cb70f51f"
+        }
+    ]
+}

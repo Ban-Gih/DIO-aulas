@@ -1,7 +1,7 @@
 package anatomiaclasses;
 
 public class BoletimEstudantil {
-    public static void main(String[] args) {
+    public static void boletin(String[] args) {
 
         int mediaFinal = 7;
 
